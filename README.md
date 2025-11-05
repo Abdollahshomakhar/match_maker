@@ -52,7 +52,9 @@ Using feature encoding and cosine similarity, the model identifies pairs with th
 👨‍🦱 Man 0 | Age: 32 | Job: transportation
 
 ❤️ Woman 4394 | Age: 29 | Job: clerical / administrative | Similarity: 0.994
+
 ❤️ Woman 56095 | Age: 27 | Job: student | Similarity: 0.993
+
 ❤️ Woman 25852 | Age: 30 | Job: medicine / health | Similarity: 0.993
 
 ⚠️ Note:
